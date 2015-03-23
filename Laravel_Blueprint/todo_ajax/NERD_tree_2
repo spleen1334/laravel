@@ -1,0 +1,51 @@
+" Press ? for help
+
+.. (up a dir)
+<g/Laravel_Blueprint/todo_ajax/
+▾ app/
+  ▸ commands/
+  ▾ config/
+    ▸ local/
+    ▸ packages/
+    ▸ testing/
+      app.php
+      auth.php
+      cache.php
+      compile.php
+      database.php
+      mail.php
+      queue.php*
+      remote.php
+      services.php
+      session.php
+      view.php
+      workbench.php
+  ▸ controllers/
+  ▾ database/
+    ▾ migrations/
+        2014_06_05_192046_create_todos_table.php
+    ▸ seeds/
+      production.sqlite
+  ▸ lang/
+  ▾ models/
+      Todo.php
+      User.php
+  ▸ start/
+  ▸ storage/
+  ▸ tests/
+  ▾ views/
+    ▸ emails/
+      hello.php
+      index.blade.php
+    filters.php
+    routes.php
+▸ bootstrap/
+▸ public/
+▸ vendor/
+  artisan*
+  composer.json
+  composer.lock
+  CONTRIBUTING.md
+  phpunit.xml
+  readme.md
+  server.php

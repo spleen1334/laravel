@@ -1,0 +1,36 @@
+     echo: off
+  explain: off
+  headers: off
+     mode: list
+nullvalue: 
+   output: production.sqlite
+separator: |
+    width: 
+
+     echo: off
+  explain: off
+  headers: off
+     mode: list
+nullvalue: 
+   output: production.sqlite
+separator: |
+    width: 
+
+     echo: off
+  explain: off
+  headers: off
+     mode: list
+nullvalue: 
+   output: production.sqlite
+separator: |
+    width: 
+
+     echo: off
+  explain: off
+  headers: off
+     mode: list
+nullvalue: 
+   output: production.sqlite
+separator: |
+    width: 
+
